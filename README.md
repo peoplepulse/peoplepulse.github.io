@@ -1,3 +1,3 @@
-<h1>People Pulse Analytics</h1>
+# People Pulse Analytics
 
 ![dashboard](./dashboard.png)
